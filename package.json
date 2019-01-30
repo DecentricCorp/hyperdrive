@@ -9,7 +9,7 @@
     "duplexify": "^3.5.0",
     "from2": "^2.3.0",
     "hypercore": "git+https://github.com/DecentricCorp/hypercore.git",
-    "hyperdb": "github:mafintosh/hyperdb#master",
+    "hyperdb": "git+https://github.com/DecentricCorp/hyperdb.git",
     "inherits": "^2.0.3",
     "is-options": "^1.0.1",
     "mutexify": "^1.1.0",
